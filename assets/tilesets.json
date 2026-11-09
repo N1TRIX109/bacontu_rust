@@ -1,0 +1,30 @@
+{
+ "ts_temple": {
+  "tile_w": 32,
+  "tile_h": 32,
+  "columns": 40,
+  "border_x": 2,
+  "border_y": 2
+ },
+ "ts_secret": {
+  "tile_w": 32,
+  "tile_h": 32,
+  "columns": 32,
+  "border_x": 2,
+  "border_y": 2
+ },
+ "ts_hub": {
+  "tile_w": 32,
+  "tile_h": 32,
+  "columns": 43,
+  "border_x": 2,
+  "border_y": 2
+ },
+ "ts_monolith": {
+  "tile_w": 32,
+  "tile_h": 32,
+  "columns": 53,
+  "border_x": 2,
+  "border_y": 2
+ }
+}

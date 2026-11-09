@@ -1,0 +1,471 @@
+{
+ "obj_solid": {
+  "sprite": "spr_wall",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_exitgate": {
+  "sprite": "spr_exitgate",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.0,
+  "image_index": 1.0
+ },
+ "obj_doorA": {
+  "sprite": "Sprite18",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_hallway": {
+  "sprite": "Sprite64",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_levelgate": {
+  "sprite": "spr_gate_wayback",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.0,
+  "image_index": null
+ },
+ "obj_tutorialBlock": {
+  "sprite": "spr_tutorialBlock",
+  "mask": null,
+  "parent": "obj_solid",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_doorB": {
+  "sprite": "Sprite65",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_slope": {
+  "sprite": "spr_slope",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_treasureViewer": {
+  "sprite": "spr_treasurepillar",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_platform": {
+  "sprite": "spr_baddie",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_ladder": {
+  "sprite": "spr_ladder",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_dresser": {
+  "sprite": "spr_dresser",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_destroyable2": {
+  "sprite": "spr_destroyablecrate_small",
+  "mask": null,
+  "parent": "obj_destructibles",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_destructibles": {
+  "sprite": null,
+  "mask": null,
+  "parent": "obj_solid",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_monolithblock_wake": {
+  "sprite": "spr_monolithblock_wake",
+  "mask": null,
+  "parent": "obj_solid",
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_monolithblock_sleep": {
+  "sprite": "spr_monolithblock_sleep",
+  "mask": null,
+  "parent": "obj_solid",
+  "image_speed": 0.0,
+  "image_index": null
+ },
+ "obj_door": {
+  "sprite": "spr_door",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_tutorialbook": {
+  "sprite": "spr_floidle",
+  "mask": null,
+  "parent": null,
+  "image_speed": 1.0,
+  "image_index": null
+ },
+ "obj_doorE": {
+  "sprite": "Sprite105",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_metalblock": {
+  "sprite": "spr_metalblock",
+  "mask": null,
+  "parent": "obj_solid",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_destroyable1": {
+  "sprite": "spr_destroyablecrate",
+  "mask": null,
+  "parent": "obj_destructibles",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_doorC": {
+  "sprite": "Sprite100",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_doorD": {
+  "sprite": "Sprite101",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_collect_escape": {
+  "sprite": "spr_escapelittlestar",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_doorG": {
+  "sprite": "Sprite103",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_sunny": {
+  "sprite": "spr_sunnyboy",
+  "mask": null,
+  "parent": "obj_baddie",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_baddie": {
+  "sprite": "spr_player_mask",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_enemyspawner": {
+  "sprite": "spr_enemyspawner",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.0,
+  "image_index": null
+ },
+ "obj_doorF": {
+  "sprite": "Sprite106",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_secretmetalblock": {
+  "sprite": "Sprite238",
+  "mask": null,
+  "parent": "obj_solid",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_ballofbeer": {
+  "sprite": "spr_ballofbeer",
+  "mask": null,
+  "parent": "obj_solid",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_monolith": {
+  "sprite": "spr_mugmonolith",
+  "mask": null,
+  "parent": "obj_destructibles",
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_bigcollect_escape": {
+  "sprite": "spr_escapeoventimer",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_potable_cage": {
+  "sprite": "spr_juiceboxcage",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_slosher": {
+  "sprite": "spr_slosher",
+  "mask": null,
+  "parent": "obj_baddie",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_collect": {
+  "sprite": "spr_collect5",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_bigcollect": {
+  "sprite": "spr_bigcollect1",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_hallway_vertical": {
+  "sprite": "Sprite64_1",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_trash_clutter": {
+  "sprite": "spr_trash",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.0,
+  "image_index": null
+ },
+ "obj_escape_pointer": {
+  "sprite": "spr_naomi_pointer",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_cocoant": {
+  "sprite": "spr_cocoant_walk",
+  "mask": null,
+  "parent": "obj_baddie",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_dougknight": {
+  "sprite": "spr_doug_walk",
+  "mask": null,
+  "parent": "obj_baddie",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_destroyable_donut1": {
+  "sprite": "spr_destroyabledonut",
+  "mask": null,
+  "parent": "obj_destructibles",
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_destroyable_donut2": {
+  "sprite": "spr_destroyabledonut_small",
+  "mask": null,
+  "parent": "obj_destructibles",
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_destroyable_secret2": {
+  "sprite": "Sprite233",
+  "mask": null,
+  "parent": "obj_destructibles",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_secret_heart": {
+  "sprite": "spr_loveportal_idle",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": 0.0
+ },
+ "obj_oneway": {
+  "sprite": "spr_onewayman",
+  "mask": null,
+  "parent": "obj_destructibles",
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_detective_door": {
+  "sprite": "spr_door_detective",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.0,
+  "image_index": 1.0
+ },
+ "obj_milton_waybackfodder": {
+  "sprite": "spr_milton_waybacklook",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_hoaxxe": {
+  "sprite": "spr_hoaxxe",
+  "mask": null,
+  "parent": null,
+  "image_speed": 1.0,
+  "image_index": null
+ },
+ "obj_waybackyard_puddles": {
+  "sprite": "spr_wayback_puddle",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.0,
+  "image_index": null
+ },
+ "obj_detectivePickup": {
+  "sprite": "spr_detective_idle_collect",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_secrettile": {
+  "sprite": "Sprite452",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_partyportalexit": {
+  "sprite": "spr_partyportal_spitout",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_doorS": {
+  "sprite": "Sprite104",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_partyportal": {
+  "sprite": "spr_partyportal",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_secret_heart_enter": {
+  "sprite": "spr_loveportal_open_broken",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": 0.0
+ },
+ "obj_lovesona": {
+  "sprite": "spr_lover1_idle",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_secretManager": {
+  "sprite": null,
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_checkpoint": {
+  "sprite": "spr_checkpoint",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_treasure": {
+  "sprite": "spr_treasure",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.0,
+  "image_index": null
+ },
+ "obj_egghead": {
+  "sprite": "spr_egghead",
+  "mask": null,
+  "parent": "obj_baddie",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_pancake": {
+  "sprite": "spr_pancake_sleep",
+  "mask": null,
+  "parent": "obj_baddie",
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_paintbuddy_pickup": {
+  "sprite": "Sprite667",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ },
+ "obj_bus": {
+  "sprite": "spr_taxiidle",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_sprayWall": {
+  "sprite": "Sprite685",
+  "mask": null,
+  "parent": null,
+  "image_speed": null,
+  "image_index": null
+ },
+ "obj_slipperybutter": {
+  "sprite": "spr_butter",
+  "mask": null,
+  "parent": null,
+  "image_speed": 0.35,
+  "image_index": null
+ }
+}
