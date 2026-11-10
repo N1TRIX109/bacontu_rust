@@ -132,6 +132,6 @@ This is an unofficial, non-commercial fan port. All art, music and sound effects
 ## Credits
 
 - Original game: *Fidelity Hotel* by [original authors]
-- Rust port: [your name / handle]
+- Rust port: phant1k, Claude Code
 - Built with [macroquad](https://macroquad.rs), `serde` and `serde_json`
 - Bundled font: DejaVu Sans Bold (Bitstream Vera license)
